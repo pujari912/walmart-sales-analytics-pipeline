@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Walmart Sales Analytics Pipeline
 
 
@@ -92,3 +93,7 @@ This project processes Walmart's historical weekly sales data (6,435 rows, 45 st
 
 Shivashankar
 
+=======
+# walmart-sales-analytics-pipeline
+End-to-end Data Engineering pipeline using Databricks, PySpark, Delta Lake, and SQL
+>>>>>>> 1dd66bedd80ea61865143d7f15ae196dbc2408c0
